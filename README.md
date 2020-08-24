@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1-zecjOdXAf_GBfWTsxmqCiUZgLBitVWb/view?usp=shari
 
 ## .apk
 
-https://drive.google.com/file/d/1Ule8f54RNLtXTMf6B8ke21p28kZUaeqT/view?usp=sharing
+https://drive.google.com/file/d/1_eF20goIm6Rl1EcYg8vPv7KNaSI6u0sl/view?usp=sharing
 
 ## Getting Started
 
