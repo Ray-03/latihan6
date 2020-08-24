@@ -1,6 +1,14 @@
 # my_flash_chat
 
-A new Flutter application.
+App for chat
+
+## Demo
+
+https://drive.google.com/file/d/1-zecjOdXAf_GBfWTsxmqCiUZgLBitVWb/view?usp=sharing
+
+## .apk
+
+https://drive.google.com/file/d/1Ule8f54RNLtXTMf6B8ke21p28kZUaeqT/view?usp=sharing
 
 ## Getting Started
 
